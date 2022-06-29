@@ -1,3 +1,4 @@
 # Space-invaders
 
-A Classic Space Invader game
+A Classic Space Invader game using Pygame
+
